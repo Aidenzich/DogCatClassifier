@@ -1,0 +1,5 @@
+*test/
+*train/
+.DS_Store
+
+*models/
